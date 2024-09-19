@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Node modules
+node_modules/
+
+# Python bytecode files
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Ignore any environment variable files
+.env
+
+# Frontend build files
+/build/
+dist/
